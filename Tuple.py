@@ -1,0 +1,11 @@
+b=("Mykibet")
+print(b[0])
+c=('One','Two','Three','Four')
+print(c[0])
+print(c[2])
+n='dee',
+print(n[0])
+n='dee'
+print(n[0])
+k='Mon','Tues','Wed','Thurs'
+print(k[0],k[1],k[2],sep='~')
